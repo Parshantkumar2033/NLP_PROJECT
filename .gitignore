@@ -1,9 +1,12 @@
 /csv
-
 /.ipynb_checkpoints
-
 random.json
-
 keys.txt
+/notebooks/best_model_weights.h5
+/notebooks/cleaned_data.pkl
+/notebooks/dataset.pkl
+/notebooks/dataset.csv
+/notebooks/df.csv
+/notebooks/tokenized_data.pkl
 
 /Data
